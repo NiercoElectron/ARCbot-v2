@@ -166,4 +166,4 @@ pytest
 
 ## 📄 Licença
 
-Distribuído para uso restrito durante o período de Alpha. Todos os direitos reservados.
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
